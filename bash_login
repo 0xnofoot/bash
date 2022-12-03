@@ -1,0 +1,5 @@
+#!/bin/bash
+
+[[ -f ~/.config/bash/bash_env ]] && . ~/.config/bash/bash_env
+[[ -f ~/.config/bash/bash_alias ]] && . ~/.config/bash/bash_alias
+
